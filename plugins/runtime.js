@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => {
 
 m.reply(`
 ┌─〔 R U N T I M E 〕
-├ Bot Aktif Selama ${uptime}
+├ Bot Aktif Selama ${uptime} jangan lupa follow ig owner:gaada_apa_apawkwk
 └────
     `.trim())
 }
