@@ -15,7 +15,7 @@ Canvacord.Canvas.trigger(image)
 stik = await require('../lib/sticker').sticker(buffer, null, packname, author); conn.sendFile(m.chat, stik, '','',m)
   }) 
  } catch (e) {
-   m.reply('Error || Mungkin karena foto profil orang tersebut private/depresi')
+   m.reply('Error || Mungkin karena foto profil orang tersebut private/depresi AWOKAWOK')
 //m.reply(`${e}`)
   }
 }
