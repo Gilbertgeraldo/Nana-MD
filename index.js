@@ -51,7 +51,7 @@ const loading = setTimeout(() => {
 }, 5000)
 // END OFF LOADING ANIMATION
 
-CFonts.say("Nana-Md", {
+CFonts.say("Gilbert-Bot", {
   font: "block",
   align: "center",
   gradient: ["red", "blue"],
