@@ -19,12 +19,12 @@
 >
 > • NOTE: Bot ini masih tahap Beta fiturnya juga masih dikit
 > 
-> • Kalo mau nambah fitur buat folder baru [disini](https://github.com/adulalhy/Nana-MD/tree/main/plugins)
+> • Kalo mau nambah fitur buat folder baru [disini](https://github.com/Gilbertgeraldo/Nana-MD/tree/main/plugins)
 
 
 <h3 align="center">Made by :</h3>
 <p align="center">
-  <a href="https://github.com/adulalhy"><img src="https://github.com/adulalhy.png?size=150)](https://github.com/adulalhy" height="128" width="128" /></a>
+  <a href="https://github.com/Gilbertgeraldo"><img src="https://github.com/Gilbertgeraldo.png?size=150)](https://github.com/adulalhy" height="128" width="128" /></a>
 </p>
 
 
@@ -36,7 +36,7 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/adulalhy/Nana-MD
+git clone https://github.com/Gilbertgeraldo/Nana-MD
 cd Nana-MD
 npm install
 npm update
@@ -47,7 +47,7 @@ npm index
 
 ## UNTUK PENGGUNA TERMUX
 ```bash
-git clone https://github.com/adulalhy/Nana-MD
+git clone https://github.com/Gilbertgeraldo/Nana-MD
 cd Nana-MD
 npm i
 npm update
@@ -77,9 +77,9 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 # Thanks to
-<a href="https://github.com/Nurutomo"><img src="https://github.com/Nurutomo.png?size=100" width="100" height="100"></a> | [![AdulAlhy](http://github.com/adulalhy.png?size=100)](http://github.com/adulalhy) | [![Ilman](https://github.com/ilmanhdyt.png?size=150)](https://github.com/ilmanhdyt) 
+<a href="https://github.com/Nurutomo"><img src="https://github.com/Nurutomo.png?size=100" width="100" height="100"></a> | [![AdulAlhy](http://github.com/adulalhy.png?size=100)](http://github.com/adulalhy) | [![Ilman](https://github.com/ilmanhdyt.png?size=150)](https://github.com/ilmanhdyt) | [![Gilbert](https://github.com/Gilbertgeraldo.png?size=150)](https://github.com/Gilbertgeraldo) 
 ----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Adul Alhy](https://github.com/adulalhy) | [Ilman (ShiraoriBOT)](https://github.com/ilmanhdyt)
-Author | penulis ulang 2 | penulis ulang 1
+[Nurutomo](https://github.com/Nurutomo) | [Adul Alhy](https://github.com/adulalhy) | [Ilman (ShiraoriBOT)](https://github.com/ilmanhdyt) | [Gilbert] (https://github.com/Gilbertgeraldo) 
+Author | penulis ulang 1 | penulis ulang 2 | penulis ulang 3
 ## Donate
-- [Saweria](https://saweria.co/adulalhy)
+- Gopay:081235136510
